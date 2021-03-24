@@ -9,10 +9,10 @@ All codes in this file is completely written by Udit Pati and Robin Vats only. A
 
 ## Screenshots
 - Main Window
-[main window!](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/main_window.jpg)
+![main window](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/main_window.jpg)
 
 - Registration
-[registration!](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/registration.jpg)
+![registration](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/registration.jpg)
 
 - Patient Details (after searching)
 ![patient details](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/patient_details.jpg)

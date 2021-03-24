@@ -1,5 +1,5 @@
 # Chase Hospitals
-This is gui-based system which provide best solution for future's computerised intractions plus this Software uses offline Text to Speech software so that handicapped patients will have greater ease of access while running this software. All the data's are stored in tabular form in a relational database i.e. MySQL database with tkinter based gui written in Python.
+This is a gui-based system which provide best solution for future's computerised intractions plus this Software uses offline Text to Speech software so that handicapped patients will have greater ease of access while running this software. All the data's are stored in tabular form in a relational database i.e. MySQL database with tkinter based gui written in Python.
 
 Talking about the features of this Hospital Management System, this project is aimed for a completely computerised management of our fictional hospital CHASE HOSPITALS. A patient can register themselves, view their details and modify their details as well. They can see the Details of Doctors, view the Services offered by the hospital. They can also make an appointment to a particular doctor
 
@@ -9,22 +9,22 @@ All codes in this file is completely written by Udit Pati and Robin Vats only. A
 
 ## Screenshots
 - Main Window
-[main window!](Data\Images\Screenshots\main_window.jpg)
+[main window!](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/main_window.jpg)
 
 - Registration
-[registration!](Data\Images\Screenshots\registration.jpg)
+[registration!](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/registration.jpg)
 
 - Patient Details (after searching)
-[patient details!](Data\Images\Screenshots\patient_details.jpg)
+[patient details!](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/patient_details.jpg)
 
 - Modify Details (after verifying)
-[modify details!](Data\Images\Screenshots\modify_details.jpg)
+[modify details!](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/modify_details.jpg)
 
 - Appointment 
-[appointment!](Data\Images\Screenshots\appointment.jpg)
+[appointment!](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/appointment.jpg)
 
 - About Us
-[about us!](Data\Images\Screenshots\about.jpg)
+[about us!](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/about.jpg)
 
 ## Installation
 Clone or fork this project. Make sure to download the complete project. See dependacies to install additional libraries.

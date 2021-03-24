@@ -15,16 +15,16 @@ All codes in this file is completely written by Udit Pati and Robin Vats only. A
 [registration!](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/registration.jpg)
 
 - Patient Details (after searching)
-[patient details!](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/patient_details.jpg)
+![patient details](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/patient_details.jpg)
 
 - Modify Details (after verifying)
-[modify details!](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/modify_details.jpg)
+![modify details](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/modify_details.jpg)
 
 - Appointment 
-[appointment!](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/appointment.jpg)
+![appointment](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/appointment.jpg)
 
 - About Us
-[about us!](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/about.jpg)
+![about us](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/about.jpg)
 
 ## Installation
 Clone or fork this project. Make sure to download the complete project. See dependacies to install additional libraries.

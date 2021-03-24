@@ -33,7 +33,7 @@ All codes in this file is completely written by Udit Pati and Robin Vats only. A
 ![about us](https://github.com/LuciferChase/chase_hospitals/blob/master/Data/Images/Screenshots/about.jpg)
 
 ## Installation
-Clone or fork this project. Make sure to download the complete project. See dependacies to install additional libraries.
+Clone or fork this project. Make sure to download the complete project. See dependencies to install additional libraries.
 
 ## Default Data:
 Database Used 	- 	chase_hospitals      

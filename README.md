@@ -8,7 +8,7 @@ This project is created by **Udit Pati** and **Robin Vats** as part of their 12t
 All codes in this file is completely written by Udit Pati and Robin Vats only. All images and icons used under CC license
 
 ## Default Data:
-Database Used 	- 	chase_hospitals
+Database Used 	- 	chase_hospitals      
 Tables Used 	-	patient_details, doctor_details, appointment, rooms
 
 - Table 1: (patient_details)
@@ -54,9 +54,9 @@ Tables Used 	-	patient_details, doctor_details, appointment, rooms
 3. easygui		-	gui
 4. Pillow		-	display pictures
 5. pyttsx3		-	text-to-speech 
-6. pypiwin32	-	pyttsx3 may not run without this
+6. pypiwin32		-	pyttsx3 may not run without this
 7. pyglet		-	display different font style
-8. Evogria.otf	-	font style
+8. Evogria.otf		-	font style
 9. Images
 ```
 

@@ -208,11 +208,11 @@ def display_patient_details_after_search():
     patient_details.grid(row = 1, column = 0, columnspan = 3, pady = 5, padx = 20)
 
     # select a random image for profile pic
-    profile_pic_1 = Image.open(r"Data\Images\Miscs\dp1.png")
-    profile_pic_2 = Image.open(r"Data\Images\Miscs\dp2.png")
-    profile_pic_3 = Image.open(r"Data\Images\Miscs\dp3.png")
-    profile_pic_4 = Image.open(r"Data\Images\Miscs\dp4.png")
-    profile_pic_5 = Image.open(r"Data\Images\Miscs\dp5.png")
+    profile_pic_1 = Image.open(r"Data\Images\Profile Pics\dp1.png")
+    profile_pic_2 = Image.open(r"Data\Images\Profile Pics\dp2.png")
+    profile_pic_3 = Image.open(r"Data\Images\Profile Pics\dp3.png")
+    profile_pic_4 = Image.open(r"Data\Images\Profile Pics\dp4.png")
+    profile_pic_5 = Image.open(r"Data\Images\Profile Pics\dp5.png")
 
     profile_pics = [profile_pic_1, profile_pic_2, profile_pic_3, profile_pic_4, profile_pic_5]
 
@@ -565,9 +565,9 @@ def about_window():
                               justify = LEFT)
     display_details_2.grid(row = 7, column = 0, rowspan = 4, sticky = W, padx = 10, pady = 10)
 
-    img3 = Image.open(r"Data\Images\Miscs\meena_sir.jpg")
-    img1 = Image.open(r"Data\Images\Miscs\lucifer.jpg")
-    img2 = Image.open(r"Data\Images\Miscs\\vats.jpg")
+    img3 = Image.open(r"Data\Images\Profile Pics\meena_sir.jpg")
+    img1 = Image.open(r"Data\Images\Profile Pics\lucifer.jpg")
+    img2 = Image.open(r"Data\Images\Profile Pics\\vats.jpg")
 
     resized_img1 = img1.resize((175, 175), Image.ANTIALIAS)
     resized_img2 = img2.resize((175, 175), Image.ANTIALIAS)

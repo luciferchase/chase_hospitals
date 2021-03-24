@@ -7,6 +7,28 @@ Talking about the features of this Hospital Management System, this project is a
 This project is created by **Udit Pati** and **Robin Vats** as part of their 12th CS project 2020 - 2021, under the able and very helpful guidance of PGT Mr. ML Meena Sir, Kendriya Vidyalaya No. 2 Delhi Cantt. 
 All codes in this file is completely written by Udit Pati and Robin Vats only. All images and icons used under CC license
 
+## Screenshots
+- Main Window
+[main window!](Data\Images\Screenshots\main_window.jpg)
+
+- Registration
+[registration!](Data\Images\Screenshots\registration.jpg)
+
+- Patient Details (after searching)
+[patient details!](Data\Images\Screenshots\patient_details.jpg)
+
+- Modify Details (after verifying)
+[modify details!](Data\Images\Screenshots\modify_details.jpg)
+
+- Appointment 
+[appointment!](Data\Images\Screenshots\appointment.jpg)
+
+- About Us
+[about us!](Data\Images\Screenshots\about.jpg)
+
+## Installation
+Clone or fork this project. Make sure to download the complete project. See dependacies to install additional libraries.
+
 ## Default Data:
 Database Used 	- 	chase_hospitals      
 Tables Used 	-	patient_details, doctor_details, appointment, rooms

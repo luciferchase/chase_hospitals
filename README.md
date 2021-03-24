@@ -3,11 +3,11 @@ This is gui-based system which provide best solution for future's computerised i
 
 Talking about the features of this Hospital Management System, this project is aimed for a completely computerised management of our fictional hospital CHASE HOSPITALS. A patient can register themselves, view their details and modify their details as well. They can see the Details of Doctors, view the Services offered by the hospital. They can also make an appointment to a particular doctor
 
-### Developers:
+## Developers:
 This project is created by **Udit Pati** and **Robin Vats** as part of their 12th CS project 2020 - 2021, under the able and very helpful guidance of PGT Mr. ML Meena Sir, Kendriya Vidyalaya No. 2 Delhi Cantt. 
 All codes in this file is completely written by Udit Pati and Robin Vats only. All images and icons used under CC license
 
-### Default Data:
+## Default Data:
 Database Used 	- 	chase_hospitals
 Tables Used 	-	patient_details, doctor_details, appointment, rooms
 
@@ -47,20 +47,20 @@ Tables Used 	-	patient_details, doctor_details, appointment, rooms
 +-----+-------------------+-----+------------+------------------+--------------------------------------------+
 ```
 
-### Dependencies:
+## Dependencies:
 ```
 1. python 3.x
 2. mysql.connector	-	connect with MySQL database
-3. easygui			-	gui
-4. Pillow			-	display pictures
-5. pyttsx3			-	text-to-speech 
-6. pypiwin32		-	pyttsx3 may not run without this
-7. pyglet			-	display different font style
-8. Evogria.otf		-	font style
+3. easygui		-	gui
+4. Pillow		-	display pictures
+5. pyttsx3		-	text-to-speech 
+6. pypiwin32	-	pyttsx3 may not run without this
+7. pyglet		-	display different font style
+8. Evogria.otf	-	font style
 9. Images
 ```
 
-### System Used:
+## System Used:
 ```
 +----+-------------------------------------------+
 | No | System_Used                               |

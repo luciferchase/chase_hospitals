@@ -1210,7 +1210,6 @@ def main_window():
     global appointment
     global modify_details
     global services
-    global admin
     global about
 
     # define buttons in left frame
@@ -1417,7 +1416,7 @@ def insert_bydefault_data():
 
 speak("Do you want to insert some by default data in the database?")
 by_default_data_confirm = messagebox.askyesno("Database",
-                                              "Do you want to insert some BY - DEFAULT DATA in the database?")
+                        "Do you want to insert some BY - DEFAULT DATA in the database?")
 
 if (by_default_data_confirm == 1):
     try:

@@ -1,0 +1,5 @@
+.git
+/Ideas
+/Data/Videos
+Data/Miscs/*
+!Data/Miscs/Evogria.otf
